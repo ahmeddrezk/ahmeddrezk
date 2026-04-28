@@ -9,9 +9,6 @@
   Hi, I'm a Mobile Application Developer specializing in Flutter, with a passion for creating innovative solutions. My Github profile showcases some of my latest projects, which highlight my skills in coding, problem-solving, and collaboration. I'm always striving to learn and grow as a developer, and I'm excited about the possibilities that lie ahead.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmeddrezk&label=visitors&color=0e75b6&style=flat" alt="visitors" />
-</p>
 
 <br>
 
