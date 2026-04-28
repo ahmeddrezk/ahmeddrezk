@@ -1,18 +1,54 @@
-# 💫 About Me:
-Hi, I'm a software engineer with a passion for creating innovative solutions. My Github profile showcases some of my latest projects, which highlight my skills in coding, problem-solving, and collaboration. I'm always striving to learn and grow as a developer, and I'm excited about the possibilities that lie ahead.
-
-
-## 🌐 Connect With Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmeddrezk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmed-rezk-ramadan) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ahmeddrezkk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedrezkramadan@gmail.com) 
-
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ahmeddrezk&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ahmeddrezk&theme=github_dark_dimmed&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ahmeddrezk&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<h1 align="center">Welcome to Ahmed Rezk's profile! 👋</h1>
 
 ---
-[![](https://komarev.com/ghpvc/?username=ahmeddrezk&icon=0&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me:
+
+<p align="left">
+  <img align="right" width="400" src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" alt="Coding GIF" />
+  Hi, I'm a Mobile Application Developer specializing in Flutter, with a passion for creating innovative solutions. My Github profile showcases some of my latest projects, which highlight my skills in coding, problem-solving, and collaboration. I'm always striving to learn and grow as a developer, and I'm excited about the possibilities that lie ahead.
+</p>
+
+<br>
+
+## 🌐 Connect With Me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ahmed-rezk-ramadan">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ahmedrezkramadan@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
+  <a href="https://instagram.com/ahmeddrezk">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+  <a href="https://tiktok.com/@ahmeddrezkk">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" style="border-radius: 8px; height: 48px;"/>
+  </a>
+</p>
+
+## 💻 Tech Stack:
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,html,css,js,cpp,cs,py,firebase,git,github,figma,postman,notion" alt="Tech Stack" />
+  </a>
+</p>
+
+## 📊 GitHub Stats:
+
+<div align="left">
+  <img src="https://github-readme-stats.shion.dev/api?username=ahmeddrezk&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false" alt="Ahmed's GitHub Stats" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=ahmeddrezk&theme=github_dark_dimmed&hide_border=false" alt="Ahmed's Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ahmeddrezk&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+</div>
+
+---
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=ahmeddrezk&icon=0&color=4" alt="Profile Views" />
+  </a>
+</div>
