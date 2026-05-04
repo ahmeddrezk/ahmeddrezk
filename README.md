@@ -1,53 +1,114 @@
-<h1 align="center">Welcome to Ahmed Rezk's profile! 👋</h1>
+<h1 align="center">Ahmed Rezk</h1>
 
----
-
-## 💫 About Me:
-
-<p align="left">
-  <img align="right" width="400" src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" alt="Coding GIF" />
-  Hi, I'm a Mobile Application Developer specializing in Flutter, with a passion for creating innovative solutions. My Github profile showcases some of my latest projects, which highlight my skills in coding, problem-solving, and collaboration. I'm always striving to learn and grow as a developer, and I'm excited about the possibilities that lie ahead.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Mobile+Application+Developer;Flutter+%26+Dart+Specialist;React+Frontend+Background&center=true&width=600&height=50&color=3382FF&vCenter=true&size=22">
 </p>
 
+<!-- Skill Badges with Levels -->
+<p align="center">
+  <img src="https://img.shields.io/badge/FLUTTER-EXPERT-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/DART-ADVANCED-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+    <img src="https://img.shields.io/badge/FIREBASE-ADVANCED-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/CS_CORE-PROBLEM_SOLVING-4CAF50?style=for-the-badge&logo=codeforces&logoColor=white">
+  <img src="https://img.shields.io/badge/REACT-INTERMEDIATE-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+</p>
+
+<!-- Action Buttons -->
+<p align="center">
+  <a href="YOUR_CV_LINK_HERE"><img src="https://img.shields.io/badge/📄_VIEW_MY_CV-FF4B4B?style=for-the-badge"></a>
+  <a href="YOUR_PORTFOLIO_LINK_HERE"><img src="https://img.shields.io/badge/💼_MY_PORTFOLIO-8A2BE2?style=for-the-badge"></a>
+</p>
 
 <br>
 
-## 🌐 Connect With Me:
+---
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ahmed-rezk-ramadan">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ahmedrezkramadan@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-  </a>
-  <a href="https://instagram.com/ahmeddrezk">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-  </a>
-  <a href="https://tiktok.com/@ahmeddrezkk">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" style="border-radius: 8px; height: 48px;"/>
-  </a>
-</p>
+<h2 align="center">🤫 About Me</h2>
 
-## 💻 Tech Stack:
+I am a **Computer Science Student** and a **Mobile Application Developer** specializing in **Flutter**, dedicated to building high-performance, cross-platform applications for both **Android and iOS**. My strong academic background gives me a solid foundation in software engineering principles, allowing me to build scalable and efficient solutions.
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,html,css,js,cpp,cs,py,firebase,git,github,figma,postman,notion" alt="Tech Stack" />
-  </a>
-</p>
-
-## 📊 GitHub Stats:
-
-<div align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=ahmeddrezk&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false" alt="Ahmed's GitHub Stats" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=ahmeddrezk&theme=github_dark_dimmed&hide_border=false" alt="Ahmed's Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ahmeddrezk&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-</div>
+*   🎓 **Academic Core:** As a CS student, I possess a strong foundation in **Data Structures, Algorithms, and Problem Solving**, backed by practical coding experience in **C++ and Python**.
+*   📱 **Mobile Development:** Architecting scalable mobile solutions using **Flutter & Dart**, delivering native-like experiences with a deep understanding of native environments (**Java & Kotlin**).
+*   ☁️ **Cloud & Backend:** Highly experienced in integrating **Firebase** services and Cloud infrastructure to build dynamic, real-time applications.
+*   ⚛️ **Frontend Foundation:** Drawing on previous experience in **Web Design and Frontend Development using React** to ensure pixel-perfect, responsive, and user-centric UI/UX in my mobile apps.
+*   🧠 **Architecture:** Obsessed with **Clean Architecture**, State Management (BLoC/Cubit), SOLID principles, and writing clean, maintainable code.
 
 ---
+
+<h2 align="center">🛠 My Technical Arsenal (Hover to Explore)</h2>
+
+<h4 align="center">💻 Core CS & Programming Languages</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,py,java,kotlin,dart" />
+  </a>
+</p>
+<p align="center">
+  <sub><b>Focus:</b> Data Structures • Algorithms • Problem Solving • OOP • C++ • Python</sub>
+</p>
+
+<h4 align="center">📱 Mobile Development (Android & iOS)</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,android,apple,swift" />
+  </a>
+</p>
+<p align="center">
+  <sub><b>Technologies:</b> Flutter • Android • iOS • Clean Architecture • BLoC/Cubit • Provider</sub>
+</p>
+
+<h4 align="center">☁️ Cloud, Backend & Tools</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,gcp,nodejs,git,github,postman,figma" />
+  </a>
+</p>
+<p align="center">
+  <sub><b>Services:</b> Firebase (Auth, Firestore, Storage) • RESTful APIs • Postman • Git • UI/UX to Code</sub>
+</p>
+
+<h4 align="center">🎨 Frontend & Web Design (Background)</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind" />
+  </a>
+</p>
+<p align="center">
+  <sub><b>Stack:</b> React.js • JavaScript • TypeScript • HTML5 • CSS3 • Web Design Principles</sub>
+</p>
+
+---
+
+<h2 align="center">📊 Development Metrics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmeddrezk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=ahmeddrezk&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeddrezk&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+<h2 align="center">📬 Let's Connect & Scale</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-rezk-ramadan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ahmedrezkramadan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/ahmeddrezk"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
+<h2 align="center">🐍 Coding Activity Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmeddrezk/ahmeddrezk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<br>
+
 <div align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://komarev.com/ghpvc/?username=ahmeddrezk&icon=0&color=4" alt="Profile Views" />
