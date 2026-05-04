@@ -80,12 +80,14 @@ I am a **Computer Science Student** and a **Mobile Application Developer** speci
 ---
 
 <h2 align="center">📊 Development Metrics</h2>
-
-<p align="center">
+<p>
+  <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ahmeddrezk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-  <br/><br/>
-  <img src="https://github-readme-stats.shion.dev/api?username=ahmeddrezk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="Ahmed's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=ahmeddrezk&theme=tokyonight&hide_border=false" alt="Ahmed's Streak" />
+  </p>
+<br/>
+<img src="https://github-readme-stats.shion.dev/api?username=ahmeddrezk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="Ahmed's GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user=ahmeddrezk&theme=tokyonight&hide_border=false" alt="Ahmed's Streak" />
+
 </p>
 
 ---
