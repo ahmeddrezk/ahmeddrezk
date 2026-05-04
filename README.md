@@ -50,21 +50,21 @@ I am a **Computer Science Student** and a **Mobile Application Developer** speci
 <h4 align="center">📱 Mobile Development (Android & iOS)</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,android,apple,swift" />
+    <img src="https://skillicons.dev/icons?i=flutter,androidstudio,apple,swift,gradle" />
   </a>
 </p>
 <p align="center">
-  <sub><b>Technologies:</b> Flutter • Android • iOS • Clean Architecture • BLoC/Cubit • Provider</sub>
+  <sub><b>Technologies:</b> Flutter • Android • iOS • Clean Architecture • BLoC/Cubit • Provider • Gradle</sub>
 </p>
 
 <h4 align="center">☁️ Cloud, Backend & Tools</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,gcp,nodejs,git,github,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=firebase,supabase,gcp,nodejs,vscode,windows,git,github,postman,figma,notion" />
   </a>
 </p>
 <p align="center">
-  <sub><b>Services:</b> Firebase (Auth, Firestore, Storage) • RESTful APIs • Postman • Git • UI/UX to Code</sub>
+  <sub><b>Services & Tools:</b> Firebase • Supabase • GCP • VSCode • Windows • Git/GitHub • Postman • Figma • Notion</sub>
 </p>
 
 <h4 align="center">🎨 Frontend & Web Design (Background)</h4>
