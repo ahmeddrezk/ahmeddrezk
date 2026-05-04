@@ -82,15 +82,15 @@ I am a **Computer Science Student** and a **Mobile Application Developer** speci
 <h2 align="center">📊 Development Metrics</h2>
 
 <p align="center">
-  <!-- الـ Streak Stats فوق لوحدها زي الصورة -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmeddrezk&theme=tokyonight&hide_border=false" alt="Ahmed's Streak" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ahmeddrezk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <!-- الـ Top Languages والـ General Stats جنب بعض -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeddrezk&layout=donut&theme=tokyonight&hide_border=false" width="48%" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmeddrezk&show_icons=true&theme=tokyonight&hide_border=false&count_private=false" width="48%" alt="Ahmed's GitHub Stats" />
+<img src="https://github-readme-stats.shion.dev/api?username=ahmeddrezk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="Ahmed's GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user=ahmeddrezk&theme=tokyonight&hide_border=false" alt="Ahmed's Streak" />
+
 </p>
+
 ---
 
 <h2 align="center">📬 Let's Connect & Scale</h2>
