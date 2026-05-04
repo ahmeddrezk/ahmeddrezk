@@ -8,22 +8,22 @@
 <p align="center">
   <img src="https://img.shields.io/badge/FLUTTER-EXPERT-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/DART-ADVANCED-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-    <img src="https://img.shields.io/badge/FIREBASE-ADVANCED-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-  <img src="https://img.shields.io/badge/CS_CORE-PROBLEM_SOLVING-4CAF50?style=for-the-badge&logo=codeforces&logoColor=white">
+  <img src="https://img.shields.io/badge/FIREBASE-ADVANCED-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
   <img src="https://img.shields.io/badge/REACT-INTERMEDIATE-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 </p>
 
 <!-- Action Buttons -->
 <p align="center">
-  <a href="YOUR_CV_LINK_HERE"><img src="https://img.shields.io/badge/📄_VIEW_MY_CV-FF4B4B?style=for-the-badge"></a>
-  <a href="YOUR_PORTFOLIO_LINK_HERE"><img src="https://img.shields.io/badge/💼_MY_PORTFOLIO-8A2BE2?style=for-the-badge"></a>
+  <a href="YOUR_CV_LINK_HERE"><img src="https://img.shields.io/badge/VIEW_MY_CV-E05D44?style=for-the-badge&logo=googledrive&logoColor=white"></a>
+  <a href="YOUR_PORTFOLIO_LINK_HERE"><img src="https://img.shields.io/badge/MY_PORTFOLIO-724BB7?style=for-the-badge&logo=react&logoColor=white"></a>
+  <a href="YOUR_CERTIFICATES_LINK_HERE"><img src="https://img.shields.io/badge/MY_CERTIFICATES-FFA500?style=for-the-badge&logo=icloud&logoColor=white"></a>
 </p>
 
 <br>
 
 ---
 
-<h2 align="center">🤫 About Me</h2>
+<h2 align="center">💫 About Me</h2>
 
 I am a **Computer Science Student** and a **Mobile Application Developer** specializing in **Flutter**, dedicated to building high-performance, cross-platform applications for both **Android and iOS**. My strong academic background gives me a solid foundation in software engineering principles, allowing me to build scalable and efficient solutions.
 
@@ -82,11 +82,11 @@ I am a **Computer Science Student** and a **Mobile Application Developer** speci
 <h2 align="center">📊 Development Metrics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmeddrezk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=ahmeddrezk&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeddrezk&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=ahmeddrezk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="Ahmed's GitHub Stats" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=ahmeddrezk&theme=tokyonight&hide_border=false" alt="Ahmed's Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ahmeddrezk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
 ---
@@ -111,6 +111,6 @@ I am a **Computer Science Student** and a **Mobile Application Developer** speci
 
 <div align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=ahmeddrezk&icon=0&color=4" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=ahmeddrezk&icon=0&color=0" alt="Profile Views" />
   </a>
 </div>
