@@ -1,5 +1,7 @@
 <h1 align="center">Ahmed Rezk</h1>
 
+<!-- <img src="assets/app/logo_horizontal.png" alt="LYVRA Logo" width="250"/> -->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Mobile+Application+Developer;Flutter+%26+Dart+Specialist;React+Frontend+Background&center=true&width=600&height=50&color=3382FF&vCenter=true&size=22">
 </p>
